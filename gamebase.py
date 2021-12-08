@@ -1,5 +1,5 @@
 """
-A gamebase provided by Professor Shaw
+A gamebase provided by PyGame
 """
 import pygame
 
